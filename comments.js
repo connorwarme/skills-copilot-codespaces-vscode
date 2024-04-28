@@ -1,4 +1,4 @@
-// create web server to handle comments
+// Create web server to handle comments
 // 1. load express module
 var express = require('express');
 // 2. create express object
